@@ -6,7 +6,7 @@ Le programme **intègre les fonctionnalités déjà connues** par une grande par
 
 Vidéo de présentation :
 
-[![Vidéo de présentation](https://github.com/Sluss47/DracoonDofusRetro/blob/main/miniature-pr%C3%A9sentation.png)
+![Vidéo de présentation](https://github.com/Sluss47/DracoonDofusRetro/blob/main/miniature-pr%C3%A9sentation.png)
 
 ---
 
